@@ -1,0 +1,6 @@
+owner=438322548606763018
+prefix=X
+game=Xplay
+stayinchannel=true
+songinstatus=false
+token=NTk1OTQ0NzYwNDk0MjYwMjQ0.XRyXTA.8VKIL2sYCVZFJ9GwYfHCnZbHVSA
